@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Varnika Beauty Parlour</title>
+
+<style>
+
+body{
+margin:0;
+font-family: Arial;
+background: linear-gradient(rgba(70,40,30,0.9), rgba(40,20,15,0.9));
+color:white;
+text-align:center;
+}
+
+.container{
+padding:40px 20px;
+}
+
+h1{
+font-size:36px;
+letter-spacing:2px;
+margin-bottom:10px;
+}
+
+h2{
+font-weight:normal;
+letter-spacing:5px;
+margin-bottom:30px;
+}
+
+.service{
+display:flex;
+justify-content:space-between;
+max-width:400px;
+margin:10px auto;
+font-size:18px;
+border-bottom:1px solid rgba(255,255,255,0.2);
+padding:8px;
+}
+
+.contact{
+margin-top:40px;
+font-size:18px;
+}
+
+.phone{
+font-size:22px;
+margin-top:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Varnika Beauty Salon</h1>
+<h2>MAKEUP SERVICES</h2>
+
+<div class="service">
+<span>Bridal Makeup</span>
+<span>₹15000</span>
+</div>
+
+<div class="service">
+<span>Pre-Wedding Makeup</span>
+<span>₹8000</span>
+</div>
+
+<div class="service">
+<span>Engagement Makeup</span>
+<span>₹10000</span>
+</div>
+
+<div class="service">
+<span>Groom Makeup</span>
+<span>₹6000</span>
+</div>
+
+<div class="service">
+<span>Basic Makeup Look</span>
+<span>₹5000</span>
+</div>
+
+<div class="service">
+<span>Demo Makeup Look</span>
+<span>₹3000</span>
+</div>
+
+<div class="contact">
+<p>For more details please contact us</p>
+
+<div class="phone">
+📞 9959177780
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
